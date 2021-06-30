@@ -18,6 +18,7 @@ Eu recomendo que aprenda a utilizar com o terminal também:
 
 - [Curso Python Básico - Solyd](https://youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/path-player?courseid=python-fundamentos)
+- [Vídeo rápido: Introdução ao Python](https://youtu.be/bwp9hzwdtA4)
 
 ## Java
 
