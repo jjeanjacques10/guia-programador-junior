@@ -26,7 +26,7 @@ Este guia tem como objetivo auxiliar aqueles que querem iniciar no mundo de dese
     - [Frontend](./PorOndeComecar/FRONTEND.md)
 - Cursos
     - [Gratuitos](./Cursos/GRATUITOS.md)
-    - [Pagos]((./Cursos/PAGOS.md))
+    - [Pagos](./Cursos/PAGOS.md)
 - Recomendações
     - [Canais do Youtube](./Recomendacoes/YOUTUBE.md)
     - [Onde ler artigos](./Recomendacoes/ARTIGOS.md)
