@@ -31,6 +31,8 @@ Este guia tem como objetivo auxiliar aqueles que querem iniciar no mundo de dese
     - [Canais do Youtube](./Recomendacoes/YOUTUBE.md)
     - [Onde ler artigos](./Recomendacoes/ARTIGOS.md)
     - [Comunidades](./Recomendacoes/COMUNIDADES.md)
+    - [Podcasts](./Recomendacoes/PODCASTS.md)
+    - [Livros](./Recomendacoes/LIVROS.md)
 - Como usar o GitHub [Em breve...]
 - Tirar Dúvidas
     - [Fazer perguntas](https://github.com/jjeanjacques10/guia-programador-junior/issues)
