@@ -23,7 +23,7 @@ Uma das melhores formas de aprender sobre tecnologia, ao contrário do que muito
 
 - [Data Hackers](https://medium.com/data-hackers)
 - [Orlando Gomes - Microsoft MVP](https://medium.com/@_orlandogomes)
-- [Carla Vieira](https://medium.com/@carlaprv)
+- [Carla Vieira - Google Developer Expert](https://medium.com/@carlaprv)
 - [Pizza de Dados](https://medium.com/pizzadedados)
 - [Towards Data Science](https://towardsdatascience.com/)
 
