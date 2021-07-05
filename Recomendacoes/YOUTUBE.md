@@ -27,11 +27,14 @@ Uma das melhores plataformas para conhecer mais sobre tecnologia, aqui está uma
 - Tecnologia em Geral
   - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+  - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - Frontend
   - [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
 - Gaming
   - [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+  - [HeartBeast](https://www.youtube.com/user/uheartbeast)
 - IA
   - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+  - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - Network
   - [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
