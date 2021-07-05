@@ -12,6 +12,9 @@ Uma das melhores formas de aprender sobre tecnologia, ao contrário do que muito
 - [Erick Wendel](https://medium.com/@erickwendel)
 - [Filipe Deschamps](https://medium.com/@FilipeDeschamps)
 
+### Python
+- [Real Python](https://realpython.com/)
+
 ### Tecnologias Microsoft 
 
 - [Renato Groffe - Microsoft MVP](https://renatogroffe.medium.com/)

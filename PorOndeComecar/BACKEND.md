@@ -16,6 +16,7 @@ Frameworks mais utilizados
 
 - Spring Boot
 - ExpressJS
+- Django
 - Flask
 - Laravel
 - ASP .NET Core

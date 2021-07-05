@@ -13,3 +13,4 @@ Podcast é uma ótima forma para acompanhar discussões de tecnologia.
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - [Clean Coders](https://devchat.tv/show/clean-coders/)
+- [Real Python](https://realpython.com/podcasts/rpp/)
