@@ -48,7 +48,7 @@ Obrigado a essas pessoas maravilhosas:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/13266295?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="https://github.com/jjeanjacques10/guia-programador-junior/commits?author=jakebolam" title="Code">💻</a></td>
+    <td align="center"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/13266295?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Oliveira</b></sub></a><br /><a href="https://github.com/jjeanjacques10/guia-programador-junior/commits?author=LucasOliveiraS" title="Code">💻</a></td>
     <td align="center"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="https://github.com/jjeanjacques10/guia-programador-junior/commits?author=jakebolam" title="Code">💻</a></td>
   </tr>
 </table>
