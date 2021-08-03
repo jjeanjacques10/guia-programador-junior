@@ -31,3 +31,10 @@ A Flutterando nasceu com o intuito de espalhar conhecimento sobre Flutter pelo B
 ### Meetup
 
 Você pode encontrar mais comunidades no site [Meetup](https://www.meetup.com/), que é um serviço usado para organizar grupos online que hospedam eventos presenciais e virtuais para pessoas com interesses semelhantes
+
+
+### Escola Livre de IA
+
+Para quem curte a área de IA e dados, tem essa comunidade com cursos livres e outros materiais bem legais:
+
+http://escolalivre-ia.com.br/
