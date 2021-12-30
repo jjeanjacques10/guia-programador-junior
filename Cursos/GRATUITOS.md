@@ -32,3 +32,7 @@ Eu recomendo que aprenda a utilizar com o terminal também:
 ## Analise de Dados / Data Science 
 
 - [Microsoft Power BI Para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science)
+
+## Outros
+
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
