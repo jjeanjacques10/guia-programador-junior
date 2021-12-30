@@ -3,7 +3,10 @@
 ## PT-BR
 
 - [Código limpo: Habilidades práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=asc_df_8576082675/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=7999331039605124919&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-398225630878&psc=1)
-- [Código limpo: Habilidades práticas do Agile Software](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Visualiza%C3%A7%C3%A3o+de+dados&qid=1637373868&s=books&sr=1-1)
+- [Arquitetura limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/gp/product/8550804606/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [Migrando Sistemas Monolíticos Para Microsserviços: Padrões Evolutivos Para Transformar seu Sistema Monolítico](https://www.amazon.com.br/gp/product/6586057043/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [Domain-Driven Design](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/?_encoding=UTF8&pd_rd_w=2OEFP&pf_rd_p=f4bc8501-341b-4441-baa7-6bdcbd2b1a48&pf_rd_r=862WD8YZCXHAHW53KYD0&pd_rd_r=889db9a7-84ba-4c8a-b908-d15281aa0c5b&pd_rd_wg=krgks&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
+- [Padrões de Projetos](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100/?_encoding=UTF8&pd_rd_w=2OEFP&pf_rd_p=f4bc8501-341b-4441-baa7-6bdcbd2b1a48&pf_rd_r=862WD8YZCXHAHW53KYD0&pd_rd_r=889db9a7-84ba-4c8a-b908-d15281aa0c5b&pd_rd_wg=krgks&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
 
 ## EN
 
