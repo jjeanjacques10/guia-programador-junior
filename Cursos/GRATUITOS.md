@@ -24,6 +24,7 @@ Eu recomendo que aprenda a utilizar com o terminal também:
 ## Java
 
 - [Curso de POO Java (Programação Orientada a Objetos)](https://youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+- [Spring Boot 2 Essentials - From zero to secured APIs](https://www.youtube.com/playlist?list=PL0Un1HNdB4jHTXBeJ8u3Kaz0NMxuMkmOY)
 
 ## JavaScript
 

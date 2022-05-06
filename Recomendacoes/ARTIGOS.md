@@ -19,7 +19,7 @@ Uma das melhores formas de aprender sobre tecnologia, ao contrário do que muito
 
 - [Renato Groffe - Microsoft MVP](https://renatogroffe.medium.com/)
 - [Balta.io](https://medium.com/balta-io/latest)
-- [Jean Jacques - Microsoft MSLA](https://jjeanjacques10.medium.com/)
+- [Jean Jacques Barros - Microsoft MSA](https://jjeanjacques10.medium.com/)
 - [Macoratti](http://macoratti.net)
 
 ### Análise de dados / Data Science
@@ -29,6 +29,14 @@ Uma das melhores formas de aprender sobre tecnologia, ao contrário do que muito
 - [Carla Vieira - Google Developer Expert](https://medium.com/@carlaprv)
 - [Pizza de Dados](https://medium.com/pizzadedados)
 - [Towards Data Science](https://towardsdatascience.com/)
+
+### Java
+
+- [Jean Jacques Barros](https://jjeanjacques10.medium.com/)
+
+### Bots
+
+- [Michael Barney Jr](https://medium.com/@michaelbarneyjr)
 
 ## Mobile
 
